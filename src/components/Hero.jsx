@@ -132,7 +132,7 @@ const Hero = () => {
                 View Projects
               </motion.button>
 
-              <motion.button
+              {/* <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 onClick={handleDownloadCV}
@@ -140,7 +140,7 @@ const Hero = () => {
               >
                 <Download size={20} />
                 Download CV
-              </motion.button>
+              </motion.button> */}
 
               <motion.button
                 whileHover={{ scale: 1.05 }}
