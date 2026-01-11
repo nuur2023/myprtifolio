@@ -32,7 +32,7 @@ const Hero = () => {
       id="home"
       className="min-h-screen flex items-center justify-center relative overflow-hidden pt-16 md:pt-20"
     >
-      {/* Background Gradient */}
+      {/* Background Gradient nn */}
       <div className="absolute inset-0 bg-gradient-to-br from-primary-50 via-white to-purple-50 dark:from-gray-900 dark:via-gray-900 dark:to-purple-900/20" />
 
       {/* Animated Background Elements */}
