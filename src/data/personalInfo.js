@@ -32,6 +32,7 @@ export const personalInfo = {
     "JavaScript",
     "AJAX",
     "React.js",
+    "Bootstrap",
     "Node.js",
     "Python",
     "PHP",
