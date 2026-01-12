@@ -5,7 +5,7 @@ export const workExperience = [
     company: "Horyaal Software",
     location: "Buula Xuubey, Somalia",
     type: "Full-time",
-    period: "2020 - 2021 (1 Year)",
+    period: "2023 - 2025 (2 Year)",
     description: "Worked closely with senior developers to integrate new features and resolve reported bugs. Assisted in developing and maintaining internal systems.",
     responsibilities: [
       "Worked closely with senior developers to integrate new features and resolve reported bugs",
@@ -13,7 +13,7 @@ export const workExperience = [
       "Collaborated with team members to deliver quality software solutions",
       "Participated in code reviews and debugging sessions"
     ],
-    technologies: ["ASP.NET MVC", "JavaScript", "C#", ".NET", "SQL Server"]
+    technologies: ["React JS", "RTKQuery", "JavaScript", "C#", ".NET Core API", "MySQL", "Flutter", "Dart", "GeX"]
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const workExperience = [
     company: "Self Employed",
     location: "Remote",
     type: "Freelance",
-    period: "2018 - 2021 (3 Years)",
+    period: "2022 - 2025 (3 Years)",
     description: "Developed web and mobile applications for various clients. Integrated third-party APIs and payment gateways, built and deployed full-stack solutions.",
     responsibilities: [
       "Developed web and mobile applications for various clients",
@@ -30,7 +30,7 @@ export const workExperience = [
       "Maintained and updated existing applications",
       "Provided technical consulting to clients"
     ],
-    technologies: ["React.js", "Node.js", "Flutter", "JavaScript", "PHP", "MySQL", "REST APIs"]
+    technologies: ["React.js", "Node.js", "Flutter", "JavaScript", "Ajax", "PHP", "MySQL", "REST APIs"]
   }
 ]
 
@@ -38,9 +38,9 @@ export const education = [
   {
     id: 1,
     degree: "Software Engineering",
-    institution: "University College of Technology (UCT)",
+    institution: "Medina Unviversity Ex-(UCT)",
     location: "Somalia",
-    period: "2015 - 2016",
+    period: "2019 - 2023",
     description: "Honor Certificate in Software Engineering. Completed with distinction.",
     achievements: [
       "Honor Certificate – 2015–2016",
