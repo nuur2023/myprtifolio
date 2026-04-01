@@ -22,7 +22,7 @@ export const projects = [
     type: "web",
     techStack: ["React JS", ".Net Core", "MySQL", "Bootstrap"],
     liveUrl: null,
-    githubUrl: "https://github.com/nuur2023/StoreFE",
+    githubUrl: null,
     playStoreUrl: "",
     featured: true
   },
@@ -43,7 +43,7 @@ export const projects = [
     id: 4,
     name: "Loan and Purchase Invoices Management App",
     description: "A mobile application for managing loan and purchase invoices. Features include invoice creation, payment tracking, due date reminders, and financial reporting.",
-    image: mobile_login,
+    image: abaalbook,
     type: "mobile",
     techStack: ["Flutter", "GetX", "Dart"],
     liveUrl: null,
