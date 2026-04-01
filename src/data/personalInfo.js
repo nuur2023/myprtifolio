@@ -46,7 +46,7 @@ export const personalInfo = {
   // Soft Skills
   softSkills: [
     "Problem-solving",
-    "Team collaboration",
+    "Team collaboration", 
     "Continuous learning",
     "Communication",
     "Time management",

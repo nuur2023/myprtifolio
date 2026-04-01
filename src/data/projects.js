@@ -39,6 +39,18 @@ export const projects = [
     playStoreUrl: "https://play.google.com/store/apps/details?id=com.abaal.kobciye",
     featured: false
   },
+  {
+    id: 4,
+    name: "Loan and Purchase Invoices Management App",
+    description: "A mobile application for managing loan and purchase invoices. Features include invoice creation, payment tracking, due date reminders, and financial reporting.",
+    image: mobile_login,
+    type: "mobile",
+    techStack: ["Flutter", "GetX", "Dart"],
+    liveUrl: null,
+    githubUrl: null,
+    playStoreUrl: "https://play.google.com/store/apps/details?id=com.abaalsoftware.abaalbook",
+    featured: false
+  },
 
 ]
 
