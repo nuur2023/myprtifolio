@@ -1,5 +1,6 @@
 import mobile_login from "../../public/images/mobile_login.jpg";
 import taskImage from "../../public/images/task_image.jpg"; 
+import abaalbook from "../../public/images/abaalbook.jpg"; 
 
 export const projects = [
   {
