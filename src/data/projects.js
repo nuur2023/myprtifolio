@@ -1,8 +1,8 @@
-import mobile_login from "../../public/images/mobile_login.jpg";
-import taskImage from "../../public/images/task_image.jpg"; 
-import abaalbook from "../../public/images/abaalbook.jpg"; 
-import gasImg from "../../public/images/gas.jpg";
-import gas_app from "../../public/images/gas_app.jpg";
+import mobile_login from "/images/mobile_login.jpg";
+import taskImage from "/images/task_image.jpg"; 
+import abaalbook from "/images/abaalbook.jpg"; 
+import gasImg from "/images/gas.jpg";
+import gas_app from "/images/gas_app.jpg";
 
 export const projects = [
   // {

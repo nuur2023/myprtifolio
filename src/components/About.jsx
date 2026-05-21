@@ -69,7 +69,7 @@ const About = () => {
           className="text-center mb-16"
         >
           <h2 className="section-title">About Me</h2>
-          <p className="section-subtitle">
+          <p className="section-subtitle1">
             Get to know more about my background, skills, and what drives me as a Software Engineer
           </p>
         </motion.div>
