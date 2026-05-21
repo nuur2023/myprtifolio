@@ -1,7 +1,6 @@
 import mobile_login from "../../public/images/mobile_login.jpg";
 import taskImage from "../../public/images/task_image.jpg"; 
 import abaalbook from "../../public/images/abaalbook.jpg"; 
-import abaalbook from "../../public/images/abaalbook.jpg"; 
 import gasImg from "../../public/images/gas.jpg";
 
 export const projects = [
@@ -29,7 +28,6 @@ export const projects = [
     playStoreUrl: "",
     featured: true
   },
-
   {
     id: 4,
     name: "Water Supply Mobile App",
@@ -43,7 +41,7 @@ export const projects = [
     featured: false
   },
   {
-    id: 4,
+    id: 5,
     name: "Loan and Purchase Invoices Management App",
     description: "A mobile application for managing loan and purchase invoices. Features include invoice creation, payment tracking, due date reminders, and financial reporting.",
     image: abaalbook,
@@ -55,7 +53,7 @@ export const projects = [
     featured: false
   },
   {
-    id: 5,
+    id: 6,
     name: "Gas Station Management System",
     description: "A full-stack accounting system for Gas Stations, features include inventory management, sales tracking, customer management, Employees Management, Pay Rolls and Admin dashboard Plus Multi station support and many more features.",
     image: gasImg,
