@@ -1,6 +1,8 @@
 import mobile_login from "../../public/images/mobile_login.jpg";
 import taskImage from "../../public/images/task_image.jpg"; 
 import abaalbook from "../../public/images/abaalbook.jpg"; 
+import abaalbook from "../../public/images/abaalbook.jpg"; 
+import gasImg from "../../public/images/gas.jpg";
 
 export const projects = [
   {
@@ -9,9 +11,9 @@ export const projects = [
     description: "A full-stack accounting system for Doogsan, features include inventory management, sales tracking, customer management, and admin dashboard.",
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800",
     type: "web",
-    techStack: ["React", "Node.js", "MongoDB", "Stripe API", "Tailwind CSS"],
+    techStack: ["React js","Tailwind CSS", ".Net Core 8", "MySQL"],
     liveUrl: "https://www.doogsan.abaalsoftware.com/login",
-    githubUrl: "https://github.com/nuur2023/doogsan",
+    githubUrl: "",
     playStoreUrl: null,
     featured: true
   },
@@ -52,7 +54,18 @@ export const projects = [
     playStoreUrl: "https://play.google.com/store/apps/details?id=com.abaalsoftware.abaalbook",
     featured: false
   },
-
+  {
+    id: 5,
+    name: "Gas Station Management System",
+    description: "A full-stack accounting system for Gas Stations, features include inventory management, sales tracking, customer management, Employees Management, Pay Rolls and Admin dashboard Plus Multi station support and many more features.",
+    image: gasImg,
+    type: "web",
+    techStack: ["React js","Tailwind CSS", ".Net Core 8", "MySQL"],
+    liveUrl: "https://gasstationfe.abaalsoftware.com/login",
+    githubUrl: null,
+    playStoreUrl: null,
+    featured: true
+  },
 ]
 
 
