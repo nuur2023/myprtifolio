@@ -73,9 +73,9 @@ export const projects = [
     image: gas_app,
     type: "mobile",
     techStack: ["Flutter", "GetX", "Dart"],
-    liveUrl: "https://play.google.com/store/apps/details?id=com.abaalsoftware.gas_station",
+    liveUrl: "",
     githubUrl: null,
-    playStoreUrl: "https://play.google.com/apps/testing/com.abaalsoftware.gas_station",
+    playStoreUrl: "https://play.google.com/store/apps/details?id=com.abaalsoftware.gas_station",
     featured: false
   }
 ]
