@@ -14,6 +14,7 @@ export const personalInfo = {
   // Social Links
   socialLinks: {
     github: "https://github.com/nuur2023",
+    tiktok: "https://www.tiktok.com/@abaalcoding",
     email: "mailto:abaalcoding@gmail.com",
   },
 

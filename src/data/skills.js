@@ -6,6 +6,7 @@ import {
   Database,
   Cloud,
   GitBranch,
+  tiktok,
   Shield
 } from 'lucide-react'
 

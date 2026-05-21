@@ -2,8 +2,8 @@ export const workExperience = [
   {
     id: 1,
     role: "Software Developer",
-    company: "Horyaal Software",
-    location: "Buula Xuubey, Somalia",
+    company: "Ex-Horyaal Software",
+    location: "Taleh, Somalia",
     type: "Full-time",
     period: "2023 - 2025 (2 Year)",
     description: "Worked closely with senior developers to integrate new features and resolve reported bugs. Assisted in developing and maintaining internal systems.",
