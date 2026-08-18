@@ -2,7 +2,7 @@ import mobile_login from "/images/mobile_login.jpg";
 import taskImage from "/images/task_image.jpg"; 
 import abaalbook from "/images/abaalbook.jpg"; 
 import hmar_cargo from "/images/hmar_cargo.jpg";
-// import gas_app from "/images/gas_app.jpg";
+import gas_app from "/images/gas_app.jpg";
 
 export const projects = [
   // {
@@ -57,7 +57,7 @@ export const projects = [
     id: 4,
     name: "Gas Station Management System",
     description: "A full-stack accounting system for Gas Stations, features include inventory management, sales tracking, customer management, Employees Management, Pay Rolls and Admin dashboard Plus Multi station support and many more features.",
-    image: gasImg,
+    image: gas_app,
     type: "web",
     techStack: ["React js","Tailwind CSS", ".Net Core 8", "MySQL"],
     liveUrl: "https://gasstationfe.abaalsoftware.com/login",
