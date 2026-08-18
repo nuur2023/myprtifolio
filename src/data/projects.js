@@ -2,7 +2,7 @@ import mobile_login from "/images/mobile_login.jpg";
 import taskImage from "/images/task_image.jpg"; 
 import abaalbook from "/images/abaalbook.jpg"; 
 import hmar_cargo from "/images/hmar_cargo.jpg";
-import gas_app from "/images/gas_app.jpg";
+import gas_app from "/images/gas_bg.jpg";
 
 export const projects = [
   // {
