@@ -1,8 +1,10 @@
 import mobile_login from "/images/mobile_login.jpg";
 import taskImage from "/images/task_image.jpg"; 
 import abaalbook from "/images/abaalbook.jpg"; 
+import abaalbookfe from "/images/abaalbookfe.jpg"; 
 import hmar_cargo from "/images/hmar_cargo.jpg";
 import gas_app from "/images/gas_bg.jpg";
+import xmr from "/images/xmr.jpg";
 
 export const projects = [
   // {
@@ -70,12 +72,24 @@ export const projects = [
     id: 5,
     name: "AbaalBook",
     description: "Web application for managing Store and invoices.",
-    image: abaalbook,
+    image: abaalbookfe,
     type: "web",
     techStack: ["React js","Tailwind CSS", ".Net Core 8", "MySQL"],
     liveUrl: "https://abaalbookfe.runasp.net/",
     githubUrl: null,
     playStoreUrl: "https://play.google.com/store/apps/details?id=com.abaalsoftware.abaalbook",
+    featured: false
+  },
+  {
+    id: 6,
+    name: "New Version of Hamar Cargo Web App",
+    description: "An updated version of the Hamar Cargo web application with improved features and functionality.",
+    image: xmr,
+    type: "web",
+    techStack: ["React js","Tailwind CSS", ".Net Core 8", "MySQL"],
+    liveUrl: "https://xamarcargo.netlify.app/",
+    githubUrl: null,
+    playStoreUrl: null,
     featured: false
   }
 ]
